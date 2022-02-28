@@ -1,0 +1,16 @@
+[window]
+command=xtitle -s
+interval=persist
+
+[volume]
+label=VOL
+label=♪
+instance=Master
+interval=once
+signal=10
+
+[time]
+instance=la
+TZ=America/Sao_Paulo
+command=date +%T
+interval=5
