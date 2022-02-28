@@ -7,3 +7,4 @@
  - compton
  - nm-applet
  - feh
+ - volumeicon
