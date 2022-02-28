@@ -2,6 +2,7 @@
 
 ## Requirements
  - i3-gaps
+ - i3blocks
  - polybar
  - rofi
  - compton
